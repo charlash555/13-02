@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: azuredevops
-          image: charlash555/pikachu
+          image: charlash555/walle
           imagePullPolicy: Always
           ports:
             - containerPort: 80
